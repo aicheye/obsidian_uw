@@ -1,0 +1,77 @@
+https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3/
+- [ ] min CAV >= 60.0%
+- [ ] by term
+	- [ ] 1A (2.75 credits)
+		- [ ] min TAV >= 60.0%
+		- [ ] cs137
+		- [ ] che102
+		- [ ] math115
+		- [ ] math117
+		- [ ] math135
+		- [ ] se101
+	- [ ] 1B (2.25 credits + elective)
+		- [ ] min TAV >= 60.0%
+		- [ ] cs138
+		- [ ] ece124
+		- [ ] ece140
+		- [ ] ece192
+		- [ ] math119
+		- [ ] se102
+		- [ ] elective
+	- [ ] 2a (2.00 credits)
+		- [ ] min TAV >= 60.0%
+		- [ ] cs241
+		- [ ] ece222
+		- [ ] se201
+		- [ ] se212
+		- [ ] stat206
+		- [ ] any of ece105/phys115/phys121
+	- [ ] 2b (2.00 credits + elective)
+		- [ ] min TAV >= 60.0%
+		- [ ] cs240
+		- [ ] cs247
+		- [ ] cs348
+		- [ ] math239
+		- [ ] se202
+		- [ ] elective
+	- [ ] 3a (2.00 credits + elective)
+		- [ ] min TAV >= 60.0%
+		- [ ] cs341
+		- [ ] math213
+		- [ ] se301
+		- [ ] se350
+		- [ ] se464
+		- [ ] se465
+		- [ ] elective
+	- [ ] 3b (2.50 credits + elective)
+		- [ ] min TAV >= 60.0%
+		- [ ] cs343
+		- [ ] ece358
+		- [ ] se302
+		- [ ] se380
+		- [ ] se463
+		- [ ] any of cs349/cs449/mse343
+		- [ ] elective
+	- [ ] 4a (1.00 credits + 4 electives)
+		- [ ] min TAV >= 60.0%
+		- [ ] se401
+		- [ ] any of gene403/se490
+		- [ ] elective #1
+		- [ ] elective #2
+		- [ ] elective #3
+		- [ ] elective #4
+	- [ ] 4b (1.00 credits + 4 electives)
+		- [ ] min TAV >= 60.0%
+		- [ ] se402
+		- [ ] any of gene404/se491
+		- [ ] elective #1
+		- [ ] elective #2
+		- [ ] elective #3
+		- [ ] elective #4
+- [ ] comm (1 course, 0.50 credits)
+- [ ] natural sciences (3 courses, 1.50 credits)
+- [ ] technical electives (4 courses, 2.00 credits) must be >=3a
+- [ ] complementary studies electives: https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B1ligZqRn
+	- [ ] list a, impact of engineering on society (1 course, 0.50 credits)
+	- [ ] list c, humanities (1 course, 0.50 credits)
+- [ ] sustainability (1 course, 0.50 credits)

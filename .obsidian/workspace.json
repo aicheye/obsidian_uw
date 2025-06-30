@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Degree Requirements.md",
+                "file": "Degree Checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Degree Requirements"
-            }
-          }
-        ]
-      },
-      {
-        "id": "caa8914f84518bd8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8155371c17e014da",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Degree Checklist"
             }
           }
         ]
@@ -56,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Degree Requirements.md",
+                "file": "Degree Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Degree Requirements"
+              "title": "Backlinks for Degree Checklist"
             }
           },
           {
@@ -129,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Degree Requirements.md",
+                "file": "Degree Checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Degree Requirements"
+              "title": "Outgoing links from Degree Checklist"
             }
           },
           {
@@ -158,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Degree Requirements.md",
+                "file": "Degree Checklist.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Degree Requirements"
+              "title": "Outline of Degree Checklist"
             }
           },
           {
@@ -195,15 +179,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29978205809bd078",
+  "active": "3f0caaf85e92f5ff",
   "lastOpenFiles": [
+    "Pasted image 20250629232114.png",
+    "Degree Checklist.md",
+    "create a link.md",
     "1a/se101",
     "1a/math117",
     "1a/math135",
     "1a/math115",
     "1a/che102",
     "1a/cs137",
-    "1a",
-    "Degree Requirements.md"
+    "1a"
   ]
 }
