@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"kanban-plugin\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,6 +62,22 @@
               },
               "icon": "lucide-search",
               "title": "Search"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ab70c3e2a6bbb16a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f39596c1b94c296f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           },
           {
@@ -87,40 +103,8 @@
       {
         "id": "36f15abfd2b04c84",
         "type": "tabs",
+        "dimension": 59.68992248062015,
         "children": [
-          {
-            "id": "13bd7c04455d6a0c",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Degree Checklist.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Degree Checklist"
-            }
-          },
-          {
-            "id": "a45a22b13bc11959",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Degree Checklist.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Degree Checklist"
-            }
-          },
           {
             "id": "a9cae0132032a260",
             "type": "leaf",
@@ -162,27 +146,75 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
+      },
+      {
+        "id": "3890f22fe663f88a",
+        "type": "tabs",
+        "dimension": 40.310077519379846,
+        "children": [
+          {
+            "id": "a45a22b13bc11959",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Degree Checklist.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Degree Checklist"
+            }
+          },
+          {
+            "id": "13bd7c04455d6a0c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Degree Checklist.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Degree Checklist"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 263.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "3f0caaf85e92f5ff",
+  "active": "a45a22b13bc11959",
   "lastOpenFiles": [
-    "Pasted image 20250629232114.png",
+    "2025-07-01.md",
     "Degree Checklist.md",
+    "projects/Kanban.md",
+    "Untitled",
+    "projects",
+    "Untitled Kanban 1.md",
+    "Pasted image 20250629232114.png",
     "create a link.md",
     "1a/se101",
     "1a/math117",

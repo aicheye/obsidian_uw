@@ -1,4 +1,11 @@
+---
+date created: Sunday, June 29th 2025, 10:54 pm
+date modified: Tuesday, July 1st 2025, 6:08 pm
+---
+# Degree Checklist
+
 https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H1zle10Cs3/
+
 - [ ] min CAV >= 60.0%
 - [ ] by term
 	- [ ] 1A (2.75 credits)
@@ -8,7 +15,7 @@ https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H
 		- [ ] math115
 		- [ ] math117
 		- [ ] math135
-		- [ ] se101
+		- [x] se101
 	- [ ] 1B (2.25 credits + elective)
 		- [ ] min TAV >= 60.0%
 		- [ ] cs138
