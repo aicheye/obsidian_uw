@@ -278,7 +278,13 @@
   "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [],
-  "filesToIgnore": [],
+  "filesToIgnore": [
+    {
+      "match": "^projects/Kanban\\.md$",
+      "flags": "",
+      "label": ""
+    }
+  ],
   "linterLocale": "en-ca",
   "logLevel": "ERROR",
   "lintCommands": [],
