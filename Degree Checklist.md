@@ -1,6 +1,6 @@
 ---
 date created: Sunday, June 29th 2025, 10:54 pm
-date modified: Tuesday, July 1st 2025, 6:08 pm
+date modified: Monday, July 7th 2025, 3:19 pm
 ---
 # Degree Checklist
 
@@ -79,6 +79,6 @@ https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/H
 - [ ] natural sciences (3 courses, 1.50 credits)
 - [ ] technical electives (4 courses, 2.00 credits) must be >=3a
 - [ ] complementary studies electives: https://uwaterloo.ca/academic-calendar/undergraduate-studies/catalog#/programs/B1ligZqRn
-	- [ ] list a, impact of engineering on society (1 course, 0.50 credits)
-	- [ ] list c, humanities (1 course, 0.50 credits)
-- [ ] sustainability (1 course, 0.50 credits)
+	- [ ] list a, impact of engineering on society (1 course, 0.50 credits) - ==stv305== (?)
+	- [ ] list c, humanities (1 course, 0.50 credits) - ==plan100== (?)
+- [ ] sustainability (1 course, 0.50 credits) - ==ers225== (?)
